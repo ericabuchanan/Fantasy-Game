@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Buchanan_FantasyGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Buchanan_FantasyGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Buchanan_FantasyGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Character.cpp" />
+		<Unit filename="Character.h" />
+		<Unit filename="Hunter.cpp" />
+		<Unit filename="Hunter.h" />
+		<Unit filename="Warrior.cpp" />
+		<Unit filename="Warrior.h" />
+		<Unit filename="allegroFunctions.cpp" />
+		<Unit filename="fantasyAssets/GameSprites.png" />
+		<Unit filename="fantasyAssets/HunterAttack.png" />
+		<Unit filename="fantasyAssets/HunterFood.png" />
+		<Unit filename="fantasyAssets/HunterSpriteBasic.png" />
+		<Unit filename="fantasyAssets/HunterTreasure.png" />
+		<Unit filename="fantasyAssets/WarriorAttack.png" />
+		<Unit filename="fantasyAssets/WarriorFood.png" />
+		<Unit filename="fantasyAssets/WarriorSpriteBasic.png" />
+		<Unit filename="fantasyAssets/WarriorTreasure.png" />
+		<Unit filename="includes.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="prototypes.h" />
+		<Unit filename="userInteractiveFunctions.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

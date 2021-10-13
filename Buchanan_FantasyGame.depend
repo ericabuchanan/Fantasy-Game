@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1621177060 source:c:\users\erica\documents\buchanan\buchanan_fantasygame\hunter.cpp
+	"Hunter.h"
+
+1621175033 source:c:\users\erica\documents\buchanan\buchanan_fantasygame\main.cpp
+	"Warrior.h"
+
+1621174675 source:c:\users\erica\documents\buchanan\buchanan_fantasygame\warrior.cpp
+	"Warrior.h"
+
+1621175818 source:c:\users\erica\documents\buchanan\buchanan_fantasygame\character.cpp
+	"Character.h"
+
+1621175770 c:\users\erica\documents\buchanan\buchanan_fantasygame\character.h
+	<iostream>
+	<ctime>
+
+1621131971 c:\users\erica\documents\buchanan\buchanan_fantasygame\warrior.h
+	"Hunter.h"
+
+1621174931 c:\users\erica\documents\buchanan\buchanan_fantasygame\hunter.h
+	"Character.h"
+
+1621540702 source:c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\character.cpp
+	"Character.h"
+
+1621558920 c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\character.h
+	"includes.h"
+	"prototypes.h"
+
+1621563207 source:c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\main.cpp
+	"includes.h"
+	"Hunter.h"
+	"Warrior.h"
+	"prototypes.h"
+
+1621563259 c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\warrior.h
+	"Character.h"
+
+1621563271 c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\hunter.h
+	"Character.h"
+
+1621562835 source:c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\warrior.cpp
+	"Warrior.h"
+
+1621562835 source:c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\hunter.cpp
+	"Hunter.h"
+
+1621559151 c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\prototypes.h
+
+1621644620 source:c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\userinteractivefunctions.cpp
+	"includes.h"
+	"Hunter.h"
+	"Warrior.h"
+	"prototypes.h"
+
+1621563308 source:c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\allegrofunctions.cpp
+	"includes.h"
+	"Hunter.h"
+	"Warrior.h"
+	"prototypes.h"
+
+1621560940 c:\users\erica\documents\github\fantasygame-erica-buchanan\buchanan_fantasygame\includes.h
+	<iostream>
+	<ctime>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<string.h>
+
